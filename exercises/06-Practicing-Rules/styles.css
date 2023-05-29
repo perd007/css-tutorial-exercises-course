@@ -1,1 +1,16 @@
 /* add your styles here */
+body {
+	background-image: url("../../.learn/assets/background-vertical.jpg?raw=true");
+	background-repeat: no-repeat repeat;
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+}
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	color: red;
+}
+h2 {
+	font-style: italic;
+}
+p#id1 {
+}

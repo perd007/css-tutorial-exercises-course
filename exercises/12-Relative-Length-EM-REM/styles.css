@@ -4,5 +4,11 @@
 #the-second-one {
 	font-size: 25px;
 }
+h2 {
+	font-size: 0.8em;
+}
+h3 {
+	font-size: 0.8rem;
+}
 
 /* YOUR CODE BELOW THIS LINE */
